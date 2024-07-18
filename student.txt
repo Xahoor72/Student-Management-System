@@ -1,0 +1,42 @@
+65
+Zahoor
+IT
+java
+100
+CG
+90
+Big Data
+99
+AI
+95
+CN
+91
+
+28
+Fasil Shafi
+ITE
+java
+90
+CG
+85
+AI
+91
+Big Data
+80
+CN
+90
+
+85
+Moin
+IT
+java
+88
+CG
+98
+AI
+90
+CN
+70
+big data
+70
+
